@@ -1,1 +1,1 @@
-# Parallels-Edge
+# Parallels-Edge + Combined with AtlasOS
