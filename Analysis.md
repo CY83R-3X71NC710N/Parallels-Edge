@@ -1,10 +1,3 @@
-﻿This conversation was generated with Duck.ai (https://duck.ai) using OpenAI's GPT-4o mini Model. AI chats may display inaccurate or offensive information (see https://duckduckgo.com/duckai/privacy-terms for more info).
-
-====================
-
-User prompt 1 of 1 - 7/30/2025, 11:23:44 PM:
-What percent performance increase does parallels have over vmware fusion when gaming
-
 GPT-4o mini:
 ## 🎮 Performance Comparison: Parallels vs. VMware Fusion in Gaming
 
